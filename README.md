@@ -13,12 +13,13 @@ The screenshot below shows the key resources we're setting up: VPC, Internet Gat
 
 2\. First, go to the AWS Console. If you don’t have an account yet, start by creating one.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2025-04-14/50df9a6d-e071-4248-ad82-0dc9bdf07719/screenshot.webp?tl_px=0,0&br_px=1920,1080&force_format=jpeg&q=100&width=1120.0)
+![1a](https://github.com/user-attachments/assets/39245821-c521-4d6d-8473-c060654c19ea)
+
+
 
 
 3\. On the AWS Console: IN the **search bar at the top**, type **"VPC"** and select **"VPC"** from the filtered results. This will take you to the **VPC Dashboard**. Click on the **“Create VPC”** button to begin creating your virtual network.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2025-04-14/78961fde-f278-4881-99ad-1b49b6ecb416/screenshot.webp?tl_px=0,0&br_px=1920,1080&force_format=jpeg&q=100&width=1120.0)
 
 
 4\. - Name your VPC and set the IPv4 CIDR block to “12.0.0.0/16” to define the private IP . You can choose your IP range
