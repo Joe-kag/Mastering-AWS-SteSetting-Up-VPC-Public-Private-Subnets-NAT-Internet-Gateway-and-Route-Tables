@@ -57,7 +57,7 @@ In the VPC Dashboard, select **Internet Gateways**.
 
 Click on the **Create internet gateway** button.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2025-04-14/b9c995c8-6249-4343-bfc5-8c103734476b/screenshot.webp?tl_px=0,0&br_px=1920,1080&force_format=jpeg&q=100&width=1120.0)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2025-04-14/b9c995c8-6249-4343-bfc5-8c103734476b/screenshot.webp?tl_px=0,0&br_px=1920,1080&force_format=jpeg&q=100&width=1120.0) 
 
 
 9\. Name the Internet Gateway **"IGW-test"**.
@@ -65,6 +65,7 @@ Click on the **Create internet gateway** button.
 Click **Create** to create the Internet Gateway.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2025-04-14/cf53c101-ab81-46e9-9fa0-975e045731ff/screenshot.webp?tl_px=0,0&br_px=1920,1080&force_format=jpeg&q=100&width=1120.0)
+
 
 
 10\. Awesome! The Internet Gateway "IGW-test" has been successfully created.
