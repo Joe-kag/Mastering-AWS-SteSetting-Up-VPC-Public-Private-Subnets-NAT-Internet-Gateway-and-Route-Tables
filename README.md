@@ -13,7 +13,7 @@ The screenshot below shows the key resources we're setting up: VPC, Internet Gat
 
 2\. First, go to the AWS Console. If you don’t have an account yet, start by creating one.
 
-![1a](https://github.com/user-attachments/assets/39245821-c521-4d6d-8473-c060654c19ea)
+(https://github.com/user-attachments/assets/39245821-c521-4d6d-8473-c060654c19ea)
 
 
 
